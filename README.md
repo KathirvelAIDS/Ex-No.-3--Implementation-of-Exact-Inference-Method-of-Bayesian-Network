@@ -19,8 +19,8 @@ Step 7: Print the results.<br>
 ## Program :
 
 ~~~
-NAME:V.A.JITHENDRA
-REG.NO:212221230043
+NAME:KATHIRVEL.A
+REG.NO:212221230047
 ~~~
 ~~~
 from pgmpy.models import BayesianNetwork
